@@ -12,6 +12,7 @@
   - 點擊關閉按鈕
   - 點擊遮罩
   - 按下ESC鍵
- 
+## 展示網址
+- https://zenocode123.github.io/modal_window/
 ---
 這是個人學習和練習的專案，歡迎提供建議和改進意見！
